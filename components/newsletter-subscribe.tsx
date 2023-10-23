@@ -86,7 +86,7 @@ const NewsletterSubscribe = ({
                 render={({ field }) => (
                   <FormItem className="flex-auto">
                     <FormControl>
-                      <Input type="email" placeholder="anakin.skywalker@darksi.de" {...field} />
+                      <Input type="email" placeholder="bugsoverflow@gmail.com" {...field} />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
