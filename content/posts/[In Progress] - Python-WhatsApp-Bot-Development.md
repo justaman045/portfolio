@@ -2,9 +2,10 @@
 title: Developing A Bot to Send Multiple Messages to a Single Person
 publishedDate: "2016-03-08"
 lastUpdatedDate: "2016-03-08"
-tags: -markdown
-  -code
-  -features
+tags:
+  - markdown
+  - code
+  - features
 status: published
 description: Example of a markdown file with code blocks and syntax highlighting
 ---
