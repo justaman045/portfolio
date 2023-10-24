@@ -1,9 +1,18 @@
 ---
-title: Best Programming Language for App Development
-date: "2022-09-27"
-tags: ["flutter", "react-native", "developer", "tips", "java", "kotlin", "swift", "objective-c"]
-draft: false
-summary: In this article, I'll tell you about the best programming language for App Development.
+title: "Best Programming Language for App Development"
+publishedDate: "2022-09-27"
+lastUpdatedDate: "2022-09-27"
+tags:
+  - flutter
+  - react-native
+  - developer
+  - tips
+  - java
+  - kotlin
+  - swift
+  - objective-c
+description: "In this article, I'll tell you about the best programming language for App Development."
+status: "published"
 ---
 
 # Best Programming Language for App Development

@@ -1,9 +1,16 @@
 ---
-title: 3 Skills Every Programmer Should Have
-date: "2022-08-07"
-tags: ["programming", "development", "DataBase", "Networking", "App", "Software"]
-draft: false
-summary: In this article we'll get to know about the skills which almost every developer should have.
+title: "3 Skills Every Programmer Should Have"
+publishedDate: "2022-08-07"
+lastUpdatedDate: "2022-08-07"
+tags:
+  - programming
+  - development
+  - DataBase
+  - Networking
+  - App
+  - Software
+description: "In this article we'll get to know about the skills which almost every developer should have."
+status: "published"
 ---
 
 # 3 Skills Every Programmer Should Have
