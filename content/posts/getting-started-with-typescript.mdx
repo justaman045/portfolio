@@ -1,0 +1,176 @@
+---
+title: An Overview and Setup of TypeScript as a Complete Beginner
+date: "2022-08-07"
+tags: ["typescript", "framework intro", "frontend"]
+draft: false
+summary: In this article we'll see what is Typescript and why should a JS developer should consider it while learning advance programming in JS.
+---
+
+# An Overview and Setup of TypeScript as a Complete Beginner
+
+In this article, we are going to have an Overview and Setup of TypeScript in our Local Environment.
+
+## TypeScript
+
+It's an Open Source Language that builds onto JavaScript by adding some Extra-features, also known as SuperSet as JavaScript.
+
+It can also be referred to as **JavaScript + Some Other Features** _(Static Types being the Main Reason)_.
+
+### How TypeScript is diffrent??
+
+TypeScript is having many different types of benefits listed below:
+
+- It Offers additional Features to JavaScript with Static Types.
+- Using types is completely Optional.
+- Compiles Down to Regular JavaScript.
+- Can also be used for Front-End JavaScript as well as Backend with Node.JS.
+- Includes Most features from ES6, ES7 ( Classes, Arrow Functions, etc. ).
+- Types from 3rd Party Libraries can be added with Type Definitions.
+
+So these were the basic TypeScript Benefits which a Vanilla TypeScript can Offer.
+
+### Types Of Programming Language
+
+In Programming there are Two Types of Programming Languages:
+
+- Dynamically Typed Language
+- Statically Typed Language
+
+### _Dynamically Typed Language_
+
+In this, the Types are associated with run time values and are not named Explicitly in your Code.
+
+Example of Dynamically Typed Language :- JavaScript, Python, Ruby, PHP
+
+### _Statically Typed Language_
+
+In this, the Types are Explicitly assigned to the variables, functions, parameters, return values, etc.
+
+Example of Statically Typed Language:- Java, C, C++, Rust, Go.
+
+### But what's the Pro's and Cons of using TypeScript instead of Regular JavaScript
+
+So there are many Pros and Cons of Using TypeScript instead of Regular JavaScript
+
+#### The Pros are listed Below :-
+
+- It is More Robust than Regular JavaScript
+- Easily Spot Bugs
+- Predicatbility
+- Readablity
+- Popular
+
+Whenever something good comes there comes some bad things with it also.
+
+#### The Cons are listed Below :-
+
+- More Code to Write.
+- More to Learn
+- Required Comiplation
+- Not True Static Types ( According to Some Programmers )
+
+### Compiling TypeScript
+
+So Compiling TypeScript is one of the major head-ache you must be facing while working with TypeScript, So below are the benifits you might think that will come in handy while working with TypeScript.
+
+- TypeScript uses `.ts` and `.tsx` extension.
+- TSC _( TypeScript Compiler )_ is used to Compile Down `.ts` or `.tsx` files Down to `.js`
+- TSC can watch the files and report the Errors at the Compile Time.
+- It may include `.ts` compilation by default.
+- Most IDE's have great support for TypeScript.
+- The `tsconfig.json` is used to configure how TypeScript will work.
+
+So Lets Code it Down the Real JavaScript ( Not with the Slides but the Actual Code ).
+
+## Let's Install TypeScript
+
+Since I am on Windows so Let's Install it Globally as TypeScript is nessesary part of all of my Projects.
+
+So Let's Try Hitting this Command
+
+#### In Windows => `npm i --global typescript`
+
+#### In Mac OS => `sudo npm i --global typescript`
+
+You can try the Same Command as of Mac OS in **Linux** also I'm not Sure what command wil be working for Linux.
+
+After Sucessfull Insatallation of TypeScript you can run this command to check if it has been sucessfuly installed or not.
+
+`tsc -v`
+
+the output should be something like `Version 4.4.2` as of on Date `10 September 2021`.
+
+#### So that was a Basic Setup of TypeScript for your local Enviroment.
+
+#### Now Let's Write JavaScript + Type Saftey I mean TypeScript
+
+After Sucessfull Installation Create a New Directory Named as typescript Learning ( Name it whatever do you like )
+
+then Create a New file name should be something like `<desiedNameHere>.ts` ( Enter any name you want in place of 'desiedNameHere')
+
+So let's write normal JavaScript here
+`let id = 5;`
+
+and then fireup your Terminal and you can now type this command to convert Regular JavaScript to Regular JavaScript ( as of for now ).
+
+`tsc filename.ts` ( file type is not mandatory just specify the name )
+
+What it will basically do is compiles your Code availabke in `.ts` format filetype to Regular JavaScript to _ES5_ ( which is set by default ).
+
+Now you can check the compiled down JavaScript Code in the File Named as the same name but with `.js` extension.
+
+Now here you can see that the TypeScript Compiles the Code to _ES5_ which is set by default and because the let and arrow functions were released with _ES6_ so it will not make use of that _( for now )_.
+
+You can also make this TypeScript Compiler to watch this Code and Compile any of the TypeScript code we write down to Regular JavaScript.
+
+You can do this by hitting this command
+
+`tsc --watch <fileName>.ts`
+
+So For Now let's Try to convert the TypeScript Code to ES6 JavaScript
+
+## Setting up tsconfig.json
+
+Let's setup the TypeScript and edit the way how TypeScript Code will compile down the typescript code to Regular JavaScript.
+
+To Setup you must forst hit this command in your Terminal
+
+`tsc --init`
+
+this will basically create a tsconfig.json file and will let you any of the Setting which might be usefull in TypeScript and the TypeScript will work on based on this file only.
+
+So now Open up you tsconfig.json and find out where _target_ is written _( Basically you will find it on Line number 7 )_
+
+Change the Target to **_ES6_** if you want.
+
+So on my Preferance I try to Locate my Compileed Regular JavaScript to another Directory and TypeScript files to another Directory.
+
+So I am gonna change the outDir setting _(you will find that on Line Number 17 )_.
+
+and Change that setting to `./dist`
+
+and also Add a New Line after that and make it as rootDir and set it's value to `./src`.
+
+Root Directory is basically to get the Sorce TypeScript files.
+
+So Now move t=your previous TypeScript file inside of a Directory Named as `src` where the TypeScript compiler will look TypeScript files for.
+
+and Now Let's Compile the TypeScript file, but this time we will compile all of them without specifying any particular File.
+
+Hit this command in your Terminal
+
+`tsc --watch`
+
+What this Command will do is basically just watches every files inside of the SRC directory and will convert them to Regular JavaScriptif it found them to be a TypeScript file.
+
+you can also just run `tsc` that will just compile the Files and will not watch for any further change in them.
+
+### Conclsion
+
+So for Now that was a basic Setup for Vanilla TypeScript ( as my mentor Said ) and this was a basic fileStruccture of TypeScript for a Complete beginner.
+
+Now we will get into TypeScript more deeper but that's for some another Article.
+
+Until then I will be Write the Dev log at this platform only just be sure to check this up.
+
+BTW you can Subscribe to my Official Blog Platform [codeitdown](https://codeitdown.ml) and get yourself Subscribed I will make sure whenever I get a Good Article over there I will Personally E-mail you for that without any Spam Mail.

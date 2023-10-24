@@ -1,0 +1,103 @@
+---
+title: Getting Started with SCSS instead of CSS
+date: "2022-08-07"
+tags: ["css", "programming", "frontend", "tutorial"]
+draft: false
+summary: In this article we'll see what are the advantage of scss over css and why I used Scss in my blog website as a designing the website instead of CSS
+---
+
+# Getting Started with SCSS instead of CSS
+
+## SCSS
+
+So Basically why SCSS is being Used, To give a short Answer to that let me describe you a case
+
+Let's think of a Project that whenever you are coding any CSS File then sometimes you might want to develop a Project where you can just simply write the Class Name and just write the code inside of that Particular Block you can just write any of the CSS related to that and be sure that I just Said that _Related_.
+
+### Example
+
+Let's think of an Example that you have a Class Name of " _helloTxt_ " and you have to make the color red if the Class is used with div and make the Color Blue if the user hovers the mouse over it.
+
+So in CSS you might write something like this:
+
+```
+div.helloTxt{
+    color: red;
+}
+```
+
+Well I guess I have Written Correct CSS Code for the above specification
+
+but when it comes it **_SCSS_** then you can easily just by writing this _Code_
+
+```
+helloTxt{
+    div{
+        color: red;
+    }
+}
+```
+
+##### So What's the advantage of using SCSS instead of CSS
+
+Well so the Advantage of using SCSS is that remember the specification which was earlier described includes a hover property also, well that might can change your mind for SCSS.
+
+So let's [Code it Down](https://codeitdown.ml)
+
+when Coding in Normal CSS your Code for the hover property will be something like this
+
+```
+div.helloTxt:hover{
+    color: blue;
+}
+```
+
+So after writing the Code for the Specifications In CSS let's see what looks like a complete CSS code for the specification
+
+```
+div.helloTxt{
+    color: red;
+}
+div.helloTxt:hover{
+    color: blue;
+}
+```
+
+So that's the complete code for the specification
+
+But let me tell you SCSS can do this job more effectivly
+
+Let's code with SCSS this time but I will code for the Complete Code for the Specification
+
+```
+helloTxt{
+    div{
+        color: red;
+    }
+    &:div{
+        color: blue;
+    }
+}
+```
+
+So that's the code with SCSS for the Specification how's that if you have learnt about OOPs in any of Programming Language don't this feels like it.
+
+Obviously it's more likely to OOPs only but for the Web XD.
+
+### Looks Intresting
+
+#### But where should I learn the SCSS before you teach us??
+
+##### Well I will suggest you to watch and learn by watching the video tutorial of [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+
+##### And I will also Post a Quick Learners Guide for SCSS on [Code it Down](https://codeitdown.ml)
+
+So be sure to subscribe my Newsletter on [Code it Down](https://codeitdown.ml)
+
+## Conclusion
+
+So at the End of the Getting Started of SCSS Post I will Conclude SCSS with more like writing the Properties of for any of the class in Paranthesis and SCSS will take care of it.
+
+I will make sure that you learn about it so be sure to look out for my Cheat Sheet on SCSS, which will come in a week.
+
+See you in Daily Logs.

@@ -1,0 +1,29 @@
+---
+title: Developing A Bot to Send Multiple Messages to a Single Person
+publishedDate: "2016-03-08"
+lastUpdatedDate: "2016-03-08"
+tags: -markdown
+  -code
+  -features
+status: published
+description: Example of a markdown file with code blocks and syntax highlighting
+---
+
+# Developing A Bot to Send Multiple Messages to a Single Person
+
+## Pre Developement Phase
+
+So I'll be Taking the Help of my previous Version of the Project where i've Developed this Project with using Functions and the Regular Python3.
+
+## The Idea
+
+The Idea Behind this Project is to Develop a Bot
+
+- that will take the Number of the Recipent's WhatsApp and
+- then validate that Number if that is Real Number or Fake using some API get requests
+- If the Number is Genuine
+- It will Proceed by Obtaining the Message from the User
+- If the Message is not given to the Bot then It will search for a Excel file ( Or CSV ) which will contain multiple Messages
+- If the Number gets to be Fake then it will prompt to re-enterthe Number else the User can Quit
+
+All of this will be Going through some best UI with Python
