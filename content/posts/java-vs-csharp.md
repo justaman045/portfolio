@@ -1,9 +1,10 @@
 ---
 title: Difference between Java and C#
-date: "2023-01-03"
+publishedDate: "2023-01-03"
 tags: ["programming", "tutorial", "difference", "java", "CSharp"]
-draft: true
-summary: In this article, we'll discuss what are the differences between Java and C#
+status: "published"
+type: Post
+description: In this article, we'll discuss what are the differences between Java and C#
 ---
 
 # Difference between Java and C#

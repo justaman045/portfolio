@@ -1,9 +1,10 @@
 ---
 title: Things I'll be focusing on in 2022
-date: "2021-01-01"
+publishedDate: "2021-01-01"
 tags: ["framework intro", "dev update", "tutorial", "tips"]
-draft: false
-summary: In this article we'll read about what are the things to keep a focus onto learn in 2022
+status: "published"
+type: Post
+# summary: In this article we'll read about what are the things to keep a focus onto learn in 2022
 ---
 
 # Things I'll be focusing on in 2022

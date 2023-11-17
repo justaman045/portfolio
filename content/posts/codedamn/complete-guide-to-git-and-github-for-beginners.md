@@ -1,9 +1,10 @@
 ---
 title: Complete Guide to Git and GitHub as a Complete Beginner
-date: "2023-03-18"
+publishedDate: "2023-03-18"
 tags: ["git", "github", "developer", "tips", "programming", "tools", "productivity"]
-draft: false
-summary: In this article, we'll discuss git and GitHub from scratch to advanced to make your codebase completly organised and ready to use in production.
+status: "published"
+type: Post
+# summary: In this article, we'll discuss git and GitHub from scratch to advanced to make your codebase completly organised and ready to use in production.
 ---
 
 # Complete Guide to Git and GitHub for Beginners

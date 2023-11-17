@@ -9,9 +9,9 @@ export const BASE_URL =
 
 export const defaultAuthor: AuthorType = {
   name: "{ Aman }",
-  handle: "@codegamerlive",
+  handle: "@justaman045",
   socialProfiles,
-  email: "bugsoverflow@gmail.com",
+  email: "editingamer@gmail.com",
   website: "https://athenabyaman.vercel.app",
   jobTitle: "Sr. Systems Associate",
   company: "Infosys Ltd.",
@@ -31,18 +31,19 @@ const siteMetadata: SiteMetaData = {
     default: defaultTitle,
   },
   description: defaultDescription,
+  email: defaultAuthor.email,
   siteRepo: "https://gitlab.com/coderaman07/digital-garden",
-  newsletterProvider: "mailerlite",
-  newsletterUrl: "https://coderaman7.hashnode.dev/newsletter",
+  newsletterProvider: "convertkit",
+  newsletterUrl: "https://athenabyaman.ck.page/newsletter",
   analyticsProvider: "umami",
   defaultTheme: "system",
   activeAnnouncement: false,
   announcement: {
-    buttonText: "Support on DevHunt →",
-    link: "https://devhunt.org/tool/modern-developer-blog-template-digital-garden-starter",
+    buttonText: "announcement Headline",
+    link: "https://projektnotify.vercel.app",
   },
-  postsPerPage: 10,
-  postsOnHomePage: 8,
+  postsPerPage: 4,
+  postsOnHomePage: 4,
   projectsOnHomePage: 3,
 };
 

@@ -1,9 +1,10 @@
 ---
 title: Watching YouTube from the terminal only
-date: "2022-11-09"
+publishedDate: "2022-11-09"
 tags: ["YouTube", "script", "automation"]
-draft: False
-summary: In this article, we'll try to automate YouTube search results directly from the Terminal
+status: "published"
+type: Post
+# summary: In this article, we'll try to automate YouTube search results directly from the Terminal
 ---
 
 # Watching YouTube from the terminal only

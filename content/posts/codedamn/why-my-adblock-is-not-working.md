@@ -1,9 +1,10 @@
 ---
 title: Why my Adblock is not Working on Twitch and YouTube
-date: "2022-09-20"
+publishedDate: "2022-09-20"
 tags: ["AdBlock", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you why your AdBlock is not working on Twitch or YouTube
+status: "published"
+type: Post
+# summary: In this article, I'll tell you why your AdBlock is not working on Twitch or YouTube
 ---
 
 # Why my Adblock is not Working

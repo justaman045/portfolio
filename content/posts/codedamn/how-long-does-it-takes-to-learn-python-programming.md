@@ -1,9 +1,10 @@
 ---
 title: How long does it take to learn python programming?
-date: "2022-09-26"
+publishedDate: "2022-09-26"
 tags: ["python", "programming", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you how about how much time does it takes to learn python programming.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you how about how much time does it takes to learn python programming.
 ---
 
 # How long does it take to learn python programming?

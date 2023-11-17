@@ -1,9 +1,10 @@
 ---
 title: Next.js and Tailwind CSS Setup Complete Guide (2022)
-date: "2022-09-21"
+publishedDate: "2022-09-21"
 tags: ["nextjs", "tailwindcss", "guide"]
-draft: false
-summary: In this article, I'll tell you about How to setup a Nextjs project with Tailwind CSS
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about How to setup a Nextjs project with Tailwind CSS
 ---
 
 # Next.js and Tailwind CSS Setup Complete Guide (2022)

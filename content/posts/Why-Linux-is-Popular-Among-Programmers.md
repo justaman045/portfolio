@@ -1,9 +1,10 @@
 ---
 title: Why Linux is popular among Programmers
-date: "2022-08-07"
+publishedDate: "2022-08-07"
 tags: ["Linux", "tutorial", "tips", "thoughts"]
-draft: false
-summary: In this article, we'll read about what are the things which make Linux more popular than Windows among developers ( Who knows to code in a better way ).
+status: "published"
+type: Post
+# summary: In this article, we'll read about what are the things which make Linux more popular than Windows among developers ( Who knows to code in a better way ).
 ---
 
 # Why Linux is popular among Programmers

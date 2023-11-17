@@ -1,9 +1,10 @@
 ---
 title: Top 10 React.js projects for Beginner
-date: "2022-09-09"
+publishedDate: "2022-09-09"
 tags: ["reactjs", "project", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you about the top 10 reactjs projects to build as a react developer.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about the top 10 reactjs projects to build as a react developer.
 ---
 
 # Top 10 React.js projects for Beginner

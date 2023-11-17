@@ -1,9 +1,10 @@
 ---
 title: Top 10 Next.js projects for Beginner
-date: "2022-09-09"
+publishedDate: "2022-09-09"
 tags: ["next.js", "project", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you about the top 10 next.js projects to build as a next developer.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about the top 10 next.js projects to build as a next developer.
 ---
 
 # Top 10 Next.js projects for Beginner

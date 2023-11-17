@@ -1,9 +1,10 @@
 ---
 title: Top 5 Linux Distributions to use as Your Virtual Machine
-date: "2022-09-26"
+publishedDate: "2022-09-26"
 tags: ["virtual machine", "Linux", "programmer", "tips"]
-draft: false
-summary: In this article, I'll tell you about what are those 5 top Linux distributions that you could use as a Virtual Machine
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about what are those 5 top Linux distributions that you could use as a Virtual Machine
 ---
 
 # Top 5 Linux Distributions to use as Your Virtual Machine

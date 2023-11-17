@@ -1,9 +1,10 @@
 ---
 title: React Firebase Complete Tutorial
-date: "2022-12-02"
+publishedDate: "2022-12-02"
 tags: ["react", "firebase", "guide"]
-draft: false
-summary: In this article, I'll tell you How to set up a Next project with Tailwind CSS
+status: "published"
+type: Post
+# summary: In this article, I'll tell you How to set up a Next project with Tailwind CSS
 ---
 
 # React Firebase Complete Tutorial

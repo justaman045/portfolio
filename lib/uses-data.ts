@@ -5,8 +5,13 @@ export const hardware = [
     href: "https://amzn.eu/d/bgy7b02",
   },
   {
+    title: "POCO x5 5G Pro",
+    description: `My Primary phone, that I have which is basically chinese phone and is heavily bloated but due to some personal Issue I am currently using this only.`,
+    href: "https://amzn.eu/d/8JuMMvc",
+  },
+  {
     title: "Xiaomi Redmi 7 ( Lineage OS )",
-    description: `My main phone. I know it's quite an old phone but still I use it as I got broke some time back and I can afford this one only.`,
+    description: `My Secondary phone. I know it's quite an old phone but still I use it as I got broke some time back and I can afford this one only.`,
     href: "https://amzn.eu/d/a1vtFs8",
   },
   {

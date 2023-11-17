@@ -1,9 +1,10 @@
 ---
 title: What is the best searching algorithm? Explained
-date: "2022-09-28"
+publishedDate: "2022-09-28"
 tags: ["Searching", "algorithm", "developer", "tips", "backend", "interview"]
-draft: false
-summary: In this article, I'll tell you about the best searching algorithm used for searching an array.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about the best searching algorithm used for searching an array.
 ---
 
 # What is the best search algorithm? Explained

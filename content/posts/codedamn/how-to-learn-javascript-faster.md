@@ -1,9 +1,10 @@
 ---
 title: How to learn Javascript Fast?? 10 Tips to learn JS Faster
-date: "2022-09-23"
+publishedDate: "2022-09-23"
 tags: ["javascript", "project", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you how to learn JavaScript faster than ever, I'll give you the tricks to learn it effectively.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you how to learn JavaScript faster than ever, I'll give you the tricks to learn it effectively.
 ---
 
 # How to learn Javascript Fast?? 10 Tips to learn JS Faster

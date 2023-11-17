@@ -1,9 +1,10 @@
 ---
 title: How to read CSV with JavaScript?
-date: "2022-10-25"
+publishedDate: "2022-10-25"
 tags: ["CSV", "JavaScript", "python"]
-draft: false
-summary: In this article, I'll tell you How to read CSV with JavaScript?
+status: "published"
+type: Post
+# summary: In this article, I'll tell you How to read CSV with JavaScript?
 ---
 
 # How to read CSV with JavaScript?

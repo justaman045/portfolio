@@ -1,9 +1,10 @@
 ---
 title: How to fix the "zsh command not found" error
-date: "2022-10-25"
+publishedDate: "2022-10-25"
 tags: ["Linux", "error", "zsh", "tips"]
-draft: false
-summary: In this article, I'll tell you about how to resolve the Error How to fix the "zsh command not found" error.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about how to resolve the Error How to fix the "zsh command not found" error.
 ---
 
 # How to fix the "zsh command not found" error

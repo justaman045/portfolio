@@ -1,9 +1,10 @@
 ---
 title: JavaScript Introduction
-date: "2022-08-07"
+publishedDate: "2022-08-07"
 tags: ["programming", "tutorial", "framework intro"]
-draft: false
-summary: In this article we'll see what is JavaScript ( JS ) and why it is at boom in tech world right now.
+status: "published"
+type: Post
+description: In this article we'll see what is JavaScript ( JS ) and why it is at boom in tech world right now.
 ---
 
 ## JavaScript Introduction

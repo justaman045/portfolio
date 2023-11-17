@@ -1,9 +1,10 @@
 ---
 title: Intro To Loops
-date: "2022-08-07"
+publishedDate: "2022-08-07"
 tags: ["programming", "tutorial"]
-draft: false
-summary: In this article we'll see about Introduction to Loops in prgraming language
+status: "published"
+type: Post
+# summary: In this article we'll see about Introduction to Loops in prgraming language
 ---
 
 # Intro To Loops

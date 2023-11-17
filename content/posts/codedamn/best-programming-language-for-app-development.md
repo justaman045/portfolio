@@ -11,8 +11,9 @@ tags:
   - kotlin
   - swift
   - objective-c
-description: "In this article, I'll tell you about the best programming language for App Development."
-status: "published"
+status: published
+type: Post
+description: In this article, I'll tell you about the best programming language for App Development.
 ---
 
 # Best Programming Language for App Development

@@ -1,9 +1,10 @@
 ---
 title: Flutter vs React Native - which one should you choose and why?
-date: "2022-09-29"
+publishedDate: "2022-09-29"
 tags: ["flutter", "react-native", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you about Flutter vs React Native - which one should you choose and why?.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about Flutter vs React Native - which one should you choose and why?.
 ---
 
 # Flutter vs React Native - which one should you choose and why?

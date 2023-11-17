@@ -3,22 +3,22 @@ import { SocialProfile } from "@/types";
 export const socialProfiles: SocialProfile[] = [
   {
     name: "github",
-    link: "https://github.com/codegamerlive",
+    link: "https://github.com/justaman045",
   },
   {
     name: "instagram",
-    link: "https://instagram.com/codegamerlive",
+    link: "https://instagram.com/justaman045",
   },
   {
     name: "linkedin",
-    link: "https://linkedin.com/in/codegamerlive",
+    link: "https://linkedin.com/in/justaman045",
   },
   {
     name: "x",
-    link: "https://twitter.com/codegamerlive",
+    link: "https://twitter.com/justaman045",
   },
   {
     name: "youtube",
-    link: "https://youtube.com/@codegamerlive",
+    link: "https://youtube.com/@editingamer",
   },
 ];

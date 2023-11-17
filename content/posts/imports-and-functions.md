@@ -1,9 +1,10 @@
 ---
 title: Defining a Function in Python
-date: "2022-08-07"
+publishedDate: "2022-08-07"
 tags: ["python", "tutorial"]
-draft: false
-summary: This article basically I wrote but this didn't worked out and the community didn't gave a good response.
+status: "published"
+type: Post
+# summary: This article basically I wrote but this didn't worked out and the community didn't gave a good response.
 ---
 
 # Defining a Function in Python

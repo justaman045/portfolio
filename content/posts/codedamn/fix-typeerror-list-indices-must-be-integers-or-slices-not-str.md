@@ -1,9 +1,10 @@
 ---
 title: Fix TypeError list indices must be integers or slices, not str
-date: "2022-10-01"
+publishedDate: "2022-10-01"
 tags: ["python", "programming", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you how to fix the typeerror list lindexes must be integers or slices, not str
+status: "published"
+type: Post
+# summary: In this article, I'll tell you how to fix the typeerror list lindexes must be integers or slices, not str
 ---
 
 # Fix TypeError list indices must be integers or slices, not str

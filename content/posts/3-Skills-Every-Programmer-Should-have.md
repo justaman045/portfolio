@@ -9,8 +9,9 @@ tags:
   - Networking
   - App
   - Software
-description: "In this article we'll get to know about the skills which almost every developer should have."
 status: "published"
+type: Post
+description: In this article we'll get to know about the skills which almost every developer should have.
 ---
 
 # 3 Skills Every Programmer Should Have

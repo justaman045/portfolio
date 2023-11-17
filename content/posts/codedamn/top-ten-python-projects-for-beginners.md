@@ -1,9 +1,10 @@
 ---
 title: Top 10 Python Projects for beginners
-date: "2022-09-09"
+publishedDate: "2022-09-09"
 tags: ["python", "project", "developer", "tips"]
-draft: false
-summary: In this article, I'll tell you about the top 10 python projects to build as a python developer.
+status: "published"
+type: Post
+# summary: In this article, I'll tell you about the top 10 python projects to build as a python developer.
 ---
 
 # Top 10 Python Projects for beginners

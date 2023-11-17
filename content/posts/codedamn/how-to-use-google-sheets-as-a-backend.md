@@ -1,9 +1,10 @@
 ---
 title: How to use Google Sheets as a database for web applications?
-date: "2022-10-25"
+publishedDate: "2022-10-25"
 tags: ["Google", "Web Applications", "Database", "python", "JavaScript"]
-draft: false
-summary: In this article, I'll tell you about How to use Google Sheets as a database for web applications?
+status: published
+type: Post
+# summary: In this article, I'll tell you about How to use Google Sheets as a database for web applications?
 ---
 
 # How to use Google Sheets as a database for web applications?

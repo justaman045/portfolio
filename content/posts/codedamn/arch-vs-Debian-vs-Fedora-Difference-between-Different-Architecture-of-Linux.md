@@ -8,8 +8,9 @@ tags:
   - arch
   - tips
   - fedora
-description: "In this article, I'll tell you about Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux."
 status: "published"
+type: Post
+# summary: In this article, I'll tell you about Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux.
 ---
 
 # Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux

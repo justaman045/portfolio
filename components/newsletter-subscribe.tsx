@@ -41,6 +41,7 @@ const NewsletterSubscribe = ({
   });
 
   const onSubmit = async (values: z.infer<typeof formSchema>) => {
+    console.log(values.email);
     const response = await fetch("/newsletter", {
       method: "POST",
       headers: {
@@ -86,7 +87,7 @@ const NewsletterSubscribe = ({
                 render={({ field }) => (
                   <FormItem className="flex-auto">
                     <FormControl>
-                      <Input type="email" placeholder="bugsoverflow@gmail.com" {...field} />
+                      <Input type="email" placeholder={siteMetadata.email} {...field} />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
