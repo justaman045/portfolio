@@ -1,13 +1,12 @@
 ---
 title: How to use Google Sheets as a database for web applications?
 publishedDate: "2022-10-25"
+lastUpdatedDate: "2023-11-18"
 tags: ["Google", "Web Applications", "Database", "python", "JavaScript"]
 status: published
 type: Post
-# summary: In this article, I'll tell you about How to use Google Sheets as a database for web applications?
+description: In this article, I'll tell you about How to use Google Sheets as a database for web applications?
 ---
-
-# How to use Google Sheets as a database for web applications?
 
 As Developers, we know how critical data a Database is to an App or website. It becomes more important after we come to the fact that every other app is using DataBase if it's meant to store data of any kind. Getting a free-to-use-for-lifetime Database is kinda like a gift.
 
@@ -82,42 +81,30 @@ To automate all these tasks you must first authenticate yourself to the Google C
 ### Setup Google sheets for usage using API
 
 - Open up the `Google Console`
-  ![Google Console](/public/static/codedamn-assets/google-console.png)
 
 - Create a New Project
-  ![New Project](/public/static/codedamn-assets/new-project.png)
 
 - Fill in your Information and create a new Project in the Google Console for free.
-  [Fill in the Info for the new Project](/public/static/codedamn-assets/fillin-info.png)
 
 - Enable the Google Sheets API from the Marketplace
-  ![Google Sheets API](/public/static/codedamn-assets/google-sheets.png)
 
 - Click on Create Credentials
-  ![Create the Credentials for the Google Sheets](/public/static/codedamn-assets/enabled-google-sheets.png)
 
 - From the Credentials tab, Select Create Credentials as a Service Account
-  ![Image](/public/static/codedamn-assets/creadentials.png)
 
 - Now fill in the details required and click on Create and Continue
-  ![Image](/public/static/codedamn-assets/service-account.png)
 
 - Select the Account Access of the Service account to Project > Editor.
-  ![Image](/public/static/codedamn-assets/access-service-account.png)
 
 - Click on Done and you're pretty much Done.
 
 - Click on the Service Account
-  ![Service Account Click](/public/static/codedamn-assets/service-account-done.png)
 
 - Now move to the Keys Tab and Click Create New Key
-  ![Image](/public/static/codedamn-assets/access-account-key.png)
 
 - Select JSON
-  ![Key Types](/public/static/codedamn-assets/json-access-account.png)
 
 - Done
-  ![Access Account Done](/public/static/codedamn-assets/acess-done-service-account.png)
 
 ### Reading from the Spreadsheets
 
@@ -258,5 +245,21 @@ gsheet.insert_row(data, place)
 
 In this article, we discussed the Pros and Cons of using Google Sheets as a Database. Although this is a free and easy-to-use DataBase to store a minimum amount of Data still this should be only used if the Data is small in size because Google Sheets can't handle data in huge sizes due to slow responsiveness.
 
-Thanks for reading
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

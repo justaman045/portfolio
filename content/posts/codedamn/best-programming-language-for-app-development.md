@@ -1,7 +1,7 @@
 ---
 title: "Best Programming Language for App Development"
 publishedDate: "2022-09-27"
-lastUpdatedDate: "2022-09-27"
+lastUpdatedDate: "2023-11-18"
 tags:
   - flutter
   - react-native
@@ -16,15 +16,13 @@ type: Post
 description: In this article, I'll tell you about the best programming language for App Development.
 ---
 
-# Best Programming Language for App Development
-
 In this modern world where everyone is moving away from their big screen monitors and laptops and switching to their Smartphones. Do you ever count how many times do you unlock your phone?? well, it's more than 100 times a day. All these are just because smartphones are an integral part of our lives, not just because of some of the services it offers but also because we try to spend most of our time with or within them.
 
 While you see Using Apps like Instagram, Whatsapp, Twitter, Reddit, and others might seem fun, it's the same amount of fun while developing it. Developing Mobile apps is fun but it also requires guidance like what programming language should I choose to lay a foundation for my app.
 
 That's what this article is all about, isn't it?? So, In this article, we'll talk about what are those best Programming Languages through which you can learn and build your Mobile Apps with ease. But first, let's understand how many types of Apps are there.
 
-![Image](/public/static/codedamn-assets/mobile-applications.png)
+![App Developement via multiple Programming Languages](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369607713/1bb3568d-0478-48dd-88b9-940cb07f977b.jpeg)
 
 ## Types of Apps
 
@@ -45,7 +43,7 @@ The Official Language for the Development of an App in IOS is Swift.
 
 Cross-platform apps are those which are developed with another platform's language but still can take the advantage of the features that any native language can. It's called Cross Platform because the App which is built cross Platform can run on any platform independent of the Programming language used or platforms it's intended to develop.
 
-![Image](/public/static/codedamn-assets/cross-platform-app-development-over-native-apps.webp)
+![Cross Platform App Developement](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369630066/13a64ebc-ee1c-4da7-9a91-e6df45acea06.webp)
 
 ## Choosing the best Programming Language for Apps Development
 
@@ -59,7 +57,7 @@ When it comes to Native App Development you have to stick to the platform's offi
 
 We have to believe that we Android Users have a pretty huge userbase that also invites huge developers to build and ship apps using its official Programming language for App Development which is **`Kotlin`**. But still, it's not the only language to build native Android Apps.
 
-![Image](/public/static/codedamn-assets/Android-App-Development-Tools-Blog-post-1024x512.jpg)
+![Mobile App Development using Android](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369648013/1fb47d12-d174-4916-8a2c-af397ea07f56.png)
 
 ##### Kotlin
 
@@ -77,7 +75,7 @@ Kotlin removes many superfluous features of Java such as null pointer exceptions
 - It sometimes gets slow
 - limited resources on the internet when compared to JAVA.
 
-![Image](/public/static/codedamn-assets/android-app-kotlin-java.png)
+![App Development](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369651839/762b7e6e-5b03-43e1-9d70-c4b76769be60.jpeg)
 
 ##### Java
 
@@ -114,7 +112,7 @@ It's also recommended to use Java over C++ as it does not provide any leverage, 
 
 There are only two programming languages through which a Developer can build and ship IOS apps.
 
-![Image](/public/static/codedamn-assets/ios.jpg)
+![IOS App Development](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369670834/84d71871-564a-4e44-ad49-97443c77d30b.jpeg)
 
 ##### Swift
 
@@ -168,7 +166,7 @@ React Native is an Open source Cross-platform App Development UI Framework built
 - Not efficient design wise
 - Updating issues
 
-![Image](/public/static/codedamn-assets/React-native-app-1.png)
+![React Native App Development](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369690884/49aded45-820b-417c-a554-a38a21f9c051.png)
 
 ### Flutter
 
@@ -190,7 +188,7 @@ Flutter is a Cross Platform App Development Framework using Dart as its Programm
 - Relatively low adoption of Dart
 - Huge App size
 
-![Image](/public/static/codedamn-assets/flutter-app-evelopment.png)
+![Flutter App Development](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369710569/f7b87e04-fe2f-4c13-88ff-842537c6515d.png)
 
 ### Xamarin
 
@@ -208,7 +206,7 @@ Xamarin is an Open source App development framework developed by Microsoft to he
 - Familiarity of Platform specific code might be needed
 - Minimal Community Support
 
-![Image](/public/static/codedamn-assets/xamarin.png)
+![Xamrin Forms](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369721857/f6568203-ecc3-42ba-ba7b-7a22c2b7f80f.png)
 
 ## Conclusion
 
@@ -222,5 +220,21 @@ There are multiple Programming languages to choose from and start developing you
 
 Hence based on the above-mentioned factors the choice can be changed to something different. However, how much great and famous Language you choose, there is always a better option available in the market. Hope this helps.
 
-Thanks for reading  
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

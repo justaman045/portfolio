@@ -1,13 +1,12 @@
 ---
 title: How to read CSV with JavaScript?
 publishedDate: "2022-10-25"
+lastUpdatedDate: "2023-11-18"
 tags: ["CSV", "JavaScript", "python"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you How to read CSV with JavaScript?
+description: In this article, I'll tell you How to read CSV with JavaScript?
 ---
-
-# How to read CSV with JavaScript?
 
 In today's modern JavaScript possibly anything that you can think of can be done with JavaScript, either is it making a connection with a Database or is it rendering HTML on the Client-side, Developing Mobile Apps with JavaScriptor or even let it be web scraping. JavaScript can do possibly anything you'd want. Today in this article we'll see how to read `CSV` files in JavaScript.
 
@@ -195,5 +194,21 @@ In this article, we saw how to read the content of CSV files using JavaScript by
 
 JavaScript is a very powerful language and its demand is increasing day by day, if you still don't know how to perform difficult operations in JavaScript you should consider taking up the [Learn JavaScript Basics](https://codedamn.com/learn/javascript-basics).
 
-Thanks for reading
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

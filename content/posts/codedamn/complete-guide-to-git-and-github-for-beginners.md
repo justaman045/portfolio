@@ -1,13 +1,12 @@
 ---
 title: Complete Guide to Git and GitHub as a Complete Beginner
 publishedDate: "2023-03-18"
+lastUpdatedDate: "2023-11-18"
 tags: ["git", "github", "developer", "tips", "programming", "tools", "productivity"]
 status: "published"
 type: Post
-# summary: In this article, we'll discuss git and GitHub from scratch to advanced to make your codebase completly organised and ready to use in production.
+description: In this article, we'll discuss git and GitHub from scratch to advanced to make your codebase completly organised and ready to use in production.
 ---
-
-# Complete Guide to Git and GitHub for Beginners
 
 Imagine that you have a program that you wanna share with other people or just even want to collaborate with others. In that case, you've got Two options:
 
@@ -75,7 +74,7 @@ Now let's tell `git` to watch this directory, to do so we've to write a command 
 git init
 ```
 
-![Git Init](/public//static/codedamn-assets/git-git-add.png)
+![Git Init](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369971197/0d9a6ed5-4b77-48e3-b221-61525390a814.png)
 
 this makes the normal directory of your system into a Git Repo.
 
@@ -85,7 +84,7 @@ this makes the normal directory of your system into a Git Repo.
 git add <filename>.<extension>
 ```
 
-![Git add filename](/public/static/codedamn-assets/git-git%20add%20filename.png)
+![Git add filename](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369985843/5f7c4f0a-1ceb-4bb7-a7b9-6ff7b768d2e6.png)
 
 this makes your git software specifically watch a file for any changes and track it on your behalf of you.
 
@@ -95,7 +94,7 @@ Or even you can add all the untracked or modified files just by writing this one
 git add .
 ```
 
-![Git add All](/public/static/codedamn-assets/git-git%20add%20all.png)
+![Git add All](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370012424/acbb96dd-caa1-4877-a1bb-2f75cfd51034.png)
 
 This will add all the files in the staging area, the files ignored will be only the files that are mentioned in `.gitignore`. That's a point for a separate article, which will be released after this article get's released.
 
@@ -109,7 +108,7 @@ To get the status of the project we can just simply run the command
 git status
 ```
 
-![Git status](/public/static/codedamn-assets/git-git%20status.png)
+![Git status](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370021011/9f6be611-0217-4b93-a0cc-9bd095445fee.png)
 
 The status of the project is like a complete overview of the Project of what you've changed or added or deleted.
 
@@ -131,7 +130,7 @@ git status -m "Test Commit"
 
 here in this `-m` indicates that here is the message for the commit.
 
-![Git commit Message](/public/static/codedamn-assets/git-git%20commit.png)
+![Git commit Message](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370071414/93a13ed1-16e4-47f0-8967-49a43c670ae4.png)
 
 Now we've successfully committed an empty file, let's check out the status of our First Git Repository.
 
@@ -139,7 +138,7 @@ Now we've successfully committed an empty file, let's check out the status of ou
 git status
 ```
 
-![First Commit](/public/static/codedamn-assets/git-first%20commit.png)
+![First Commit](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370084764/ceb1687e-d23e-464d-b4ce-c970ceddcde6.png)
 
 Now we can see that the status of the Project has been changed and we're on Branch master with a clean working tree.
 
@@ -157,7 +156,7 @@ Let's say you want to see what changes we made in the past, Git provides us with
 git log
 ```
 
-![Git Log](/public/static/codedamn-assets/git-git%20log.png)
+![Git Log](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370109533/6e85d09e-05e2-4725-9416-91c974bcaf1a.png)
 
 Here are all the commits made in this project, as we've made a single commit in this we can see there is only one single commit available. Not only we can see the commit message we can also see the Author ( who made this commit ) with its time and timezone.
 
@@ -171,11 +170,9 @@ But wait we can go back in time, which means that we can see what the codebase l
 
 With commit messages we are also getting the SHA keys, SHA keys are simple text with obfuscated Text and Numbers. It is similar to `commit be1108437f1a3a54df6cd287b83f499edde6d549`.
 
-![Commit to go back in time](/public/static/codedamn-assets/git-git%20log%20-all.png)
-
 Now first let's add more files and logs to make our commit tree a bit larger than the present. So I added a few files with some content in them.
 
-![Added new files](/public/static/codedamn-assets/git-git%20log%20commits.png)
+![Added new files](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370210865/ba401f09-f180-430f-8f51-0ca7fbf18b55.png)
 
 Let's say we want to delete the last commit from the log tree, to accomplish that we must use `git reset <SHA key>` to move back to that code of that time.
 
@@ -185,7 +182,7 @@ Let's say we want to delete the last commit from the log tree, to accomplish tha
 git reset 0331ffa126f91401c826defc00c9554eccd55523
 ```
 
-![Moved Back in time](/public/static/codedamn-assets/git-git%20reset.png)
+![Moved Back in time](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370221785/4dfb346c-33ef-4605-b271-bb6061dd0a58.png)
 
 As we can see in the status of the project all the files committed after the commit we chose will move back to the Unstaged area and it'll be untracked again. This will help a developer to reverse back the codebase to the version when it was running fine.
 
@@ -202,7 +199,7 @@ Let's say you want to make the required changes to the project but still don't w
 
 _Let's take a look at our current project Structure._
 
-![Current Project Structure](/public/static/codedamn-assets/git-current%20project%20STructure.png)
+![Current Project Structure](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370243598/07aa7a9a-1358-49db-baee-45b9052f6200.png)
 
 The basic syntax for Stash command is
 
@@ -218,7 +215,7 @@ git add .
 git stash save
 ```
 
-![Git Stash](/public/static/codedamn-assets/git-git%20stash%20save.png)
+![Git Stash](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370257072/27a27b73-a881-44ff-89d7-050d008e146b.png)
 
 As we can see in the above command that all the uncommitted code is moved back from the unstaged area and still it doesn't appear in the log-tree.
 
@@ -330,5 +327,21 @@ git branch feature
 
 We use `git branch -d <branch-name>` to delete a branch from the repo.
 
-Thanks for Reading
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

@@ -1,7 +1,7 @@
 ---
 title: "Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux"
 publishedDate: "2022-10-25"
-lastUpdatedDate: "2022-10-25"
+lastUpdatedDate: "2023-11-18"
 tags:
   - Linux
   - debian
@@ -10,10 +10,8 @@ tags:
   - fedora
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux.
+description: In this article, I'll tell you about Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux.
 ---
-
-# Arch vs. Debian vs Fedora - Difference between Different Architectures of Linux
 
 As a Windows or Mac user, you might have thought why are there so many distros available for Linux PCs, and why a huge number of distros? Why can't they just merge all of them and develop the best, well-suited, customizable, and free Linux distro ever to unite all the Linux Users under one Distribution and Architecture?? Well in this article we're going to talk about that only.
 
@@ -35,7 +33,7 @@ Now, after this let's talk about the different architecture of Linux World.
 
 ## Fedora
 
-![Fedora OS](/public/static/codedamn-assets/fedora-logofull-blue.png)
+![Fedora OS](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369320460/cdcfa595-43e3-44fd-a436-cf2fd6054547.png)
 
 Fedora is a Linux Distribution that is developed by Fedora Community and is backed by RedHat itself. Fedora prioritizes being up-to-date rather than being stable. It is the fastest moving distribution that stays innovative by developing the latest and up-to-date software, libraries, and tool for the Open Source communities.
 
@@ -62,19 +60,19 @@ Fedora is bleeding Edge and is a community edition of RedHat Linux. Some of the 
 
 - Fedora Spin
 
-![Image](/public/static/codedamn-assets/fedora-spin.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369314925/7c45e138-70a8-43f6-b3a5-013691f06566.webp)
 
 - Nobara OS
 
-![Image](/public/static/codedamn-assets/nobara.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369336491/5372bfbd-36c1-4e13-a274-4f3aea886c01.webp)
 
 - UltraMarine
 
-![Image](/public/static/codedamn-assets/ultramarine.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369365984/afb683cc-e518-4497-b6ab-70f8e7a16ffe.webp)
 
 ## Debian
 
-![Debian OS](/public/static/codedamn-assets/debian.png)
+![Debian OS](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369374149/69b9b4a6-e36d-4b14-a91f-ebfc413d322b.png)
 
 Debian Distributions are the most stable in the Linux world, to be precise Debian follows the more stable path when compared to the other Architectures. Debian comes with three flavors in itself.
 
@@ -117,19 +115,19 @@ Debian is the most stable Linux Architecture you'll find. Some of the most Stabl
 
 - Ubuntu
 
-![Image](/public/static/codedamn-assets/ubuntu-stable-desktop.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369397648/c1be5665-cb3a-4001-b642-8338c516e0d8.webp)
 
 - Kali Linux
 
-![Image](/public/static/codedamn-assets/kali-linux-desktop.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369408095/af89bfab-7eb0-41b1-a883-de057022c6e0.webp)
 
 - Deepin OS
 
-![Image](/public/static/codedamn-assets/deepin-desktop.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369416504/ecba0019-3e71-4724-84da-d44fca8aab8c.webp)
 
 ## Arch
 
-![Arch OS](/public/static/codedamn-assets/archlinux.png)
+![Arch OS](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369427596/6c6d00a1-7ed0-441a-b6bf-d56ce98cbb94.png)
 
 Arch Linux architecture is a rolling release Linux Distribution, which means you don't have to reinstall the whole OS for a major Update like in Debian and also we don't have Proprietary Software like in fedora. Instead Arch keeps Update size to a minimum by giving updates to the users as fast as possible with the bleeding edge of any new feature. Keeping the Arch users up-to-date with the latest software possible.
 
@@ -157,15 +155,15 @@ Arch Linux is the most Updated Linux Distro out there. Some of the major Linux D
 
 - Arch Linux
 
-![Image](/public/static/codedamn-assets/archlinux-desktop.png)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369435830/fb25dfde-9724-43e6-a591-23d13cd7efe5.png)
 
 - Reborn OS
 
-![Image](/public/static/codedamn-assets/RebornOS.webp)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369453526/617ca03d-46a3-4428-bbc2-eb48f0a1a8fd.webp)
 
 - Manjaro OS
 
-![Image](/public/static/codedamn-assets/manjaro.jpg)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1699369459721/c797f43a-c132-4232-b6b9-8546fdb6ea2c.jpeg)
 
 ## But what for a Beginner
 
@@ -195,7 +193,7 @@ If you're a Student then Try Ubuntu then Switch to Elementary OS or Linux Mint.
 
 ### Linux for Fun??
 
-Okay, I get it, you don't want to dedicate yourself as a Linux user but first want to get a taste of Linux. I'll recommend you to head over to the article [Top 5 Linux Distributions to use as Your Virtual Machine](https://coderaman7.hashnode.dev/top-5-linux-distributions-to-use-as-your-virtual-machine) to get to know more about this
+Okay, I get it, you don't want to dedicate yourself as a Linux user but first want to get a taste of Linux. I'll recommend you to head over to the article [Top 5 Linux Distributions to use as Your Virtual Machine](https://justaman045.hashnode.dev/preview/653f9563503f3d9ea1690ab6) to get to know more about this
 
 ## Summary
 
@@ -217,5 +215,21 @@ Learning Linux is the best decision I've made, and I'd like to pass this on to t
 
 Hope this information helped you understand the topic.
 
-Thanks for reading  
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

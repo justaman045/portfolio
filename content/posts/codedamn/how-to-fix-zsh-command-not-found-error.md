@@ -1,10 +1,11 @@
 ---
 title: How to fix the "zsh command not found" error
 publishedDate: "2022-10-25"
+lastUpdatedDate: "2023-11-18"
 tags: ["Linux", "error", "zsh", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about how to resolve the Error How to fix the "zsh command not found" error.
+description: In this article, I'll tell you about how to resolve the Error How to fix the "zsh command not found" error.
 ---
 
 # How to fix the "zsh command not found" error
@@ -126,5 +127,21 @@ Sometimes due to some error or mishandling, the `.zshrc` file gets deleted which
 
 As discussed in this article, 5 main and common problems will cause the Error `zsh: command not found`. If you've tried all of these and it successfully ran. The Error might have gone away and you're back with your package accessible again.
 
-Thanks for reading
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

@@ -1,13 +1,12 @@
 ---
 title: How long does it take to learn python programming?
 publishedDate: "2022-09-26"
+lastUpdatedDate: "2023-11-18"
 tags: ["python", "programming", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you how about how much time does it takes to learn python programming.
+description: In this article, I'll tell you how about how much time does it takes to learn python programming.
 ---
-
-# How long does it take to learn python programming?
 
 Python is a simple but high-level programming language which is considered to be the best language for doing almost any task you perform in the programming world. Learning it might be a difficult task for anyone. Learning Python can either take 2 months or even a year or two.
 
@@ -138,5 +137,21 @@ Learning Python language completely depends on your time and dedication. You can
 
 These were the tips that can help you to learn the Python Programming language and I hope that I've answered your question about how much time will it take you to learn the Python Programming Language
 
-Thanks for reading  
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

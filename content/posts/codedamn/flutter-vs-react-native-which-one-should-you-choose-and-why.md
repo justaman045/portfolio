@@ -1,19 +1,18 @@
 ---
 title: Flutter vs React Native - which one should you choose and why?
 publishedDate: "2022-09-29"
+lastUpdatedDate: "2023-11-18"
 tags: ["flutter", "react-native", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about Flutter vs React Native - which one should you choose and why?.
+description: In this article, I'll tell you about Flutter vs React Native - which one should you choose and why?.
 ---
-
-# Flutter vs React Native - which one should you choose and why?
 
 Development of a Mobile App for both Eco-system Android or IOS is a basic necessity now as if not then you might be missing many users for your product. Development of Apps for both Ecosystems can be a tough task if your developer has not had very good familiarity with both of the ecosystems. Thanks to the Modern world we now have Cross Platform Mobile App Development Frameworks which can enable a Developer to write a code/ Business Logic once and ship to both or even multiple more eco-system just from one codebase.
 
 In our Previous Post, [Best Programming Language for App Development](https://codedamn.com/news/app-development/best-programming-language-for-app) we discussed the best Programming language for Mobile App Development in extension to that in this article we'll discuss `Which one` is best among Flutter vs React Native`, two of the most famous Cross Platform App Development Frameworks.
 
-![Image](/public/static/codedamn-assets/flutter%20react%20native.webp)
+![Flutter vs React Native](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370708021/3ffdc851-7870-4c65-aa10-569148e178fa.jpeg)
 
 ## Flutter
 
@@ -23,7 +22,7 @@ Flutter targets Android, IOS, macOS, Windows, Linux, and Web from a single codeb
 
 Traditionally a Company would require multiple developers to build Apps for Multiple platforms, due to flutter it's been reduced to One, and from just a single codebase, a developer can ship apps on all of the major platforms.
 
-![Flutter](/public/static/codedamn-assets/flutter-app-evelopment.png)
+![Flutter](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370569817/fd02601a-8645-42ca-94f9-9b19aaa2f6ce.png)
 
 ### Advantages of **Flutter**
 
@@ -49,7 +48,7 @@ React Native was initially built from [React library](https://github.com/faceboo
 
 If you want to learn React Native you first have to learn [React](https://reactjs.org) to help you with that we already have curated a beautiful and interactive course [React JS](https://codedamn.com/learn/reactjs) for beginners and [Advanced React Concepts](https://codedamn.com/learn/advanced-react-concepts) for intermediate react developers.
 
-![React Native](/public/static/codedamn-assets/React-native-app-1.png)
+![React Native](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370581653/1dead174-4522-40b3-ba48-5659c5764ed5.png)
 
 ### Advantages of using **React Native**
 
@@ -129,13 +128,13 @@ There is no such winner here. It all depends on the use case of a developer or t
 
 If you've already a Web App setup and you just need to Develop an App for Android or IOS or even Desktop Apps. If you ever want to create an App that is likely to be large and deeply rooted, due to stronger and more extensive documentation. Due to its huge community, it's likely to be a very good choice for your complicated but responsive Cross Platform App.
 
-![Instagram](/public/static/codedamn-assets/react-native-example.png)
+![Instagram](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370647667/878cbb1f-e12f-4f08-ad47-f093dbc27f41.png)
 
 ### When to choose Flutter??
 
 If your app is UI centered and you need a quick but clean UI prefer Flutter. With the help of Hot Reload and Dart compiler, you can easily build your MVP app within a short period with a clean UI.
 
-![Stadia](/public/static/codedamn-assets/stadia%20flutter.webp)
+![Stadia](https://cdn.hashnode.com/res/hashnode/image/upload/v1699370684850/91d97479-7cc5-4d27-9a24-de80820d0816.webp)
 
 ## Try out the Apps
 
@@ -158,6 +157,22 @@ Apps built with Flutter:
 - Google Ads
 - Stadia
 - Alibaba
+
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
 
 Thanks for Reading  
 Happy Hacking

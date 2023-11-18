@@ -1,13 +1,12 @@
 ---
 title: Fix TypeError list indices must be integers or slices, not str
 publishedDate: "2022-10-01"
+lastUpdatedDate: "2023-11-18"
 tags: ["python", "programming", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you how to fix the typeerror list lindexes must be integers or slices, not str
+description: In this article, I'll tell you how to fix the typeerror list lindexes must be integers or slices, not str
 ---
-
-# Fix TypeError list indices must be integers or slices, not str
 
 If you're a Python Developer or maybe a Beginner learning Development in Python you might have encountered this error `Type Error: list indices must be integers or slices, not str`. After this error, you might have googled this error or maybe changed something in the code and it worked out, but you still don't know what was the error or the reason behind this error.
 
@@ -237,5 +236,21 @@ This error generally occurs whenever we try to access the list using indexes but
 
 If you're looking for a good but interactive Python Course, where all errors, problems, questions, and solutions can be available?? We'll recommend you to take up the [Python Intermediate course](https://codedamn.com/learn/learn-python-intermediate), and for more help try joining our community on Discord where all of us try to help and achieve good skills by learning and building together.
 
-Thanks for reading  
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

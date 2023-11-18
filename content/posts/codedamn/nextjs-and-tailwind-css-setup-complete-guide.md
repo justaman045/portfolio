@@ -1,13 +1,12 @@
 ---
 title: Next.js and Tailwind CSS Setup Complete Guide (2022)
 publishedDate: "2022-09-21"
+lastUpdatedDate: "2023-11-18"
 tags: ["nextjs", "tailwindcss", "guide"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about How to setup a Nextjs project with Tailwind CSS
+description: In this article, I'll tell you about How to setup a Nextjs project with Tailwind CSS
 ---
-
-# Next.js and Tailwind CSS Setup Complete Guide (2022)
 
 Tailwind CSS is a CSS framework that helps to rapidly develop a modern website with ease. Today in the current Developer market a Developer with Tailwind CSS can develop Websites with custom elements faster when compared with Bootstrap. Developers prefer Tailwind CSS over other CSS frameworks due to many reasons, Some of which are listed below:-
 
@@ -129,7 +128,7 @@ npx create-next-app devArticles
 
 _Note:- Next.js project names cannot be in capitals ( if any )._
 
-![Create Next.js App](/public/static/codedamn-assets/create-nextapp.png)
+![Create Next.js App](https://cdn.hashnode.com/res/hashnode/image/upload/v1699371486506/45caf668-4b91-425f-a40e-8963ca8c344f.png?auto=compress,format&format=webp)
 
 ### Install Tailwind CSS in the Project
 
@@ -176,7 +175,7 @@ As we've already done all the dirty work with the installing and configuring, we
 
 Currently, my project structure looks like this
 
-![Project Structure](/public/static/codedamn-assets/project-structure-tailwind-css.png)
+![Project Structure](https://cdn.hashnode.com/res/hashnode/image/upload/v1699371507156/a07b81bc-5f5e-4cbd-94c2-072b19191919.png?auto=compress,format&format=webp)
 
 Now we've to write HTML first to hydrate Static Content on our WebPage.
 
@@ -204,7 +203,7 @@ Let's add our magic using Tailwind CSS _( and when I say magic I mean it, I don'
 
 Before applying Tailwind CSS to our Project, our Website looks something like this
 
-![Before Tailwind CSS](/public/static/codedamn-assets/before-Tailwind-CSS.png)
+![Before Tailwind CSS](https://cdn.hashnode.com/res/hashnode/image/upload/v1699371521927/dc68a135-3683-490e-b5c5-3b425ad25c91.png?auto=compress,format&format=webp)
 
 Well, we also added a custom `_document.jsx` to control the background color and other parts of the page.
 
@@ -228,7 +227,7 @@ CSS can be tough to write sometimes but when it's with Tailwind CSS, it's really
 
 After writing Code for our Page it looks something like this
 
-![User Articles on Dev.to](/public/static/codedamn-assets/articles-on-dev.png)
+![User Articles on Dev.to](https://cdn.hashnode.com/res/hashnode/image/upload/v1699371540316/d8e754b4-1ae9-4c37-91f0-e02574860b41.png?auto=compress,format&format=webp)
 
 with minimum to less touch on CSS, code given below
 
@@ -283,5 +282,22 @@ You can access all the code from our Playground made avaiable for you ( which wi
 Be sure to check out the [Official Documentation](https://tailwindcss.com/docs/guides/nextjs) for further info, to get all the detailed information in a concise form you can refer to our [YouTube Channel](https://www.youtube.com/@codedamn), or refer to our [Blogs](https://codedamn.com/blogs) to stay Updated with other tools as well.
 
 Hope this article had helped you
-Thanks for Ready
+
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking

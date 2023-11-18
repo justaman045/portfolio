@@ -4,7 +4,7 @@ publishedDate: "2022-09-23"
 tags: ["javascript", "project", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you how to learn JavaScript faster than ever, I'll give you the tricks to learn it effectively.
+description: In this article, I'll tell you how to learn JavaScript faster than ever, I'll give you the tricks to learn it effectively.
 ---
 
 # How to learn Javascript Fast?? 10 Tips to learn JS Faster
@@ -45,7 +45,7 @@ x = 3;
 console.log(x); // 3
 ```
 
-![Image](/public/static/codedamn-assets/javascript-basics.png)
+![JavaScript Basics](https://cdn.hashnode.com/res/hashnode/image/upload/v1700296053705/da756040-2c1e-4250-91c4-ed5ec633ce1e.png)
 
 ## Taking the right course
 
@@ -57,7 +57,7 @@ So, taking the right course will always make you learn JavaScript faster and mor
 
 We will recommend you take the course by [Codedamn](https://codedamn.com/learn/javascript-basics), as it includes all the topics that you'll need to fasten your JavaScript learning, and also subscribe to [Codedamn on YouTube](https://youtube.com/codedamn) for updates on JavaScript and multiple other programming languages or Frameworks.
 
-![Image](/public/static/codedamn-assets/javascript-basics-course.png)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1700296090776/1b10945b-fb29-4195-acf4-402f2810cc1f.png)
 
 ## Build lots n lots of Projects
 
@@ -77,7 +77,7 @@ By Practicing actively we mean that you spend more time actually coding rather t
 
 Like we learn Football by not seeing but playing it by ourselves. In JavaScript, we too learn it by actually getting our hands dirty by actually coding by ourselves.
 
-![Image](/public/static/codedamn-assets/javascript-basics-practice-actively.png)
+![Practice it Alternatively](https://cdn.hashnode.com/res/hashnode/image/upload/v1700296118390/bd51650c-2bd2-447f-ac6e-0d196641bc7b.png)
 
 ## Avoid Tutorial Hell
 
@@ -95,7 +95,7 @@ In JavaScript, we have [MDN [Web Docs](https://developer.mozilla.org/en-US/docs/
 
 Sometimes it can happen that you can't get a grasp over a concept that the instructor had taught you in your preferred course of learning, this is where the Documentation comes in, as it includes all of the stuff that you have to read to get knowledge about it.
 
-![Image](/public/static/codedamn-assets/javascript-basics-docs.png)
+![JavaScript Basic Docs](https://cdn.hashnode.com/res/hashnode/image/upload/v1700296159329/4df77637-0dd1-479a-b9ec-7fcaade4db08.png)
 
 ## Join Communities
 
@@ -113,7 +113,7 @@ There are many advantages of joining Online Coding Communities:-
 
 If you don't know which community to join we all welcome you to our Community [codedamn.com](https://codedamn.com), just signup and link your Discord, and we'll be happy to welcome you.
 
-![Image](/public/static/codedamn-assets/javascript-basics-communities.png)
+![Image](https://cdn.hashnode.com/res/hashnode/image/upload/v1700296193901/bc57329a-0565-4b18-812d-6dc19b9a8ec5.png)
 
 ## Make notes of whatever you learn
 
@@ -148,5 +148,21 @@ You can learn JavaScript faster:
 
 And these were the tips that will help you to learn JavaScript faster than anyone else. Hope these will help you to learn JavaScript faster.
 
-Thanks for reading  
+### Promotion
+
+Currently, I am also focused on building the Community mentioned below:
+
+1. Anime Community:- [Instagram/otakuanime69](https://instagram.com/otakuanime69)
+2. Motivational Theme Page:- [Instagram/glorymotivation7](https://instagram.com/glorymotivation7)
+
+also, I'm currently focused on building my Brand named Otaku Outfits currently it's in the approval stage on Etsy but once it is live I'll be sharing it with you all by making sure to subscribe to my Newsletter from the Newsletter tab.
+
+Also, it'll be helpful if you can just follow this [link to Medium](https://justaman045.medium.com/4f8c92cfbb8f?source=friends_link&sk=cd115cbec34f873f98454a9faaf8fab7) and give me a like and follow there too.
+
+### Contact
+
+To contact you can join my Discord Server where I intend to keep the community in one place and also serve the community  
+Discord Link:- [https://discord.gg/ZfAKPZvT](https://discord.gg/ZfAKPZvT) ( It's brand new and I'm okay if you help me out on setting up this ).
+
+Thanks for Reading  
 Happy Hacking
