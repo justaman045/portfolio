@@ -45,6 +45,7 @@ const siteMetadata: SiteMetaData = {
   postsPerPage: 4,
   postsOnHomePage: 4,
   projectsOnHomePage: 3,
+  instagramAccounts: ["lethal_astra", "justaman045", "1stay_Consistent", "shawmir26"],
 };
 
 export default siteMetadata;

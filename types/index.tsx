@@ -47,6 +47,7 @@ export type SiteMetaData = {
   postsPerPage: number;
   postsOnHomePage: number;
   projectsOnHomePage: number;
+  instagramAccounts: Array<string>;
 };
 
 export type SeriesItem = {
