@@ -30,6 +30,7 @@ const siteMetadata: SiteMetaData = {
     template: `%s | ${defaultTitle}`,
     default: defaultTitle,
   },
+  username: "justaman045",
   description: defaultDescription,
   email: defaultAuthor.email,
   siteRepo: "https://gitlab.com/coderaman07/digital-garden",

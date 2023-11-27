@@ -36,6 +36,7 @@ export type SiteMetaData = {
     default: string;
   };
   description: string;
+  username: string;
   email: string;
   siteRepo: string;
   newsletterProvider?: NewsletterProvider;
