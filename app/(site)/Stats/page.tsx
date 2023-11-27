@@ -1,107 +1,31 @@
 // pages/index.tsx
 
 import { Metadata } from "next";
-import axios, { AxiosError, AxiosResponse } from "axios";
 
 import siteMetadata from "@/lib/metadata";
 
+import {
+  fetchGithubData,
+  fetchSubscribers,
+  getDevProfile,
+  getGitLabData,
+  getUserData,
+  usernameToFetch,
+} from "./StatsComponents";
+
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "Uses",
+    title: "Social Stats",
     description: "Stuff I use",
   };
 }
 
-// -----------Dev----------------------------
-let config = {
-  method: "get",
-  maxBodyLength: Infinity,
-  url: "https://dev.to/api/followers/users?per_page=1000",
-  headers: {
-    api_key: "qiCs3EGp8npWFRB2wVeVMZmH",
-  },
-};
-
-let devtoFollowers: string;
-let devtoArticles: string;
-axios
-  .request(config)
-  .then((response) => {
-    devtoFollowers = JSON.stringify(response.data.length);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
-axios
-  .get(`https://dev.to/api/articles?username=${siteMetadata.username}`)
-  .then((response) => {
-    devtoArticles = JSON.stringify(response.data.length);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
-// -----------Dev----------------------------
-
-interface GraphQLRequestProps {
-  username?: string;
-  token?: string;
-}
-
-const graphqlEndpoint = "https://gql.hashnode.com/";
-const token = "c590f68e-c846-465d-ba67-feced6c10c8f"; // Replace with your actual Hashnode API token
-const usernameToFetch = "justaman045";
-
-const getUserData = async ({ username, token }: GraphQLRequestProps): Promise<any | AxiosError> => {
-  const query = `
-    query User {
-    user(username: "justaman045") {
-        followersCount
-        publications(first: 50) {
-            edges {
-                node {
-                    url
-                    posts(first: 20) {
-                        totalDocuments
-                    }
-                }
-            }
-        }
-    }
-}
-
-  `;
-
-  const variables = {
-    username: username,
-  };
-
-  const headers = {
-    Authorization: token,
-  };
-
-  try {
-    const response = await axios.post<any>(graphqlEndpoint, { query, variables }, { headers });
-    // console.log(response.data)
-    return response.data;
-  } catch (error) {
-    return error as AxiosError;
-  }
-};
-
-const fetchGithubData = async (username: string) => {
-  try {
-    // Fetch user details (including followers count)
-    const userResponse = await axios.get(`https://api.github.com/users/${username}`);
-    const { public_repos, followers } = userResponse.data;
-    return { public_repos, followers };
-  } catch (error: any) {
-    console.error("Error fetching GitHub data:", error.response?.data || error.message || error);
-  }
-};
-
 export default async function Stats() {
-  const hashnodeData = await getUserData({ username: usernameToFetch, token: token });
+  const hashnodeData = await getUserData({ username: usernameToFetch });
   const githubData = await fetchGithubData(siteMetadata.username);
+  const devProfile = await getDevProfile();
+  const subscribersData = await fetchSubscribers();
+  const gitlabData = await getGitLabData();
 
   return (
     <>
@@ -143,8 +67,8 @@ export default async function Stats() {
             >
               <span className="my-6 grid h-24 w-3/4 place-items-center">
                 <h1>Dev.to</h1>
-                <h3>Dev.to Followers: {devtoFollowers}</h3>
-                <h3>Dev.to Articles: {devtoArticles}</h3>
+                <h3>Dev.to Followers: {devProfile.devtoFollowers}</h3>
+                <h3>Dev.to Articles: {devProfile.devtoArticles}</h3>
               </span>
             </a>
             {hashnodeData && (
@@ -157,6 +81,18 @@ export default async function Stats() {
                   <h1>Hashnode</h1>
                   <h3>Hashnode Followers: {hashnodeData.data.user.followersCount}</h3>
                   <h3>Hashnode Articles: {hashnodeData.data.user.publications.edges[0].node.posts.totalDocuments}</h3>
+                </span>
+              </a>
+            )}
+            {subscribersData && (
+              <a
+                className="border-blue-gray-50 hover:border-blue-gray-100 hover:bg-blue-gray-50 grid w-full min-w-[7rem] transform cursor-pointer place-items-center rounded-xl border bg-slate-600 px-3 py-2 transition-all hover:scale-105 hover:bg-opacity-25"
+                href={`https://github.com/${siteMetadata.username}`}
+                target="_blank"
+              >
+                <span className="my-6 grid h-24 w-3/4 place-items-center">
+                  <h1>ConvertKit Newsletter</h1>
+                  <h3>Newsletter Followers: {subscribersData.total_subscribers * subscribersData.total_pages}</h3>
                 </span>
               </a>
             )}
@@ -200,6 +136,18 @@ export default async function Stats() {
                   <h1>GitHub</h1>
                   <h3>GitHub Followers: {githubData.followers}</h3>
                   <h3>GitHub Repositories: {githubData.public_repos}</h3>
+                </span>
+              </a>
+            )}
+            {gitlabData && (
+              <a
+                className="border-blue-gray-50 hover:border-blue-gray-100 hover:bg-blue-gray-50 grid w-full min-w-[7rem] transform cursor-pointer place-items-center rounded-xl border bg-slate-600 px-3 py-2 transition-all hover:scale-105 hover:bg-opacity-25"
+                href={`https://gitlab.com/coderaman07`}
+                target="_blank"
+              >
+                <span className="my-6 grid h-24 w-3/4 place-items-center">
+                  <h1>GitLab</h1>
+                  <h3>GitLab Projects: {gitlabData.user.length}</h3>
                 </span>
               </a>
             )}
