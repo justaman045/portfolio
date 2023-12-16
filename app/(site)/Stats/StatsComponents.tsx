@@ -193,11 +193,11 @@ export async function codingData() {
 export async function getInstaData(): Promise<any> {
   try {
     const lethal_astra: AxiosResponse<any> = await axios.get(
-      "https://graph.instagram.com/7150081325048019?fields=media_count,username&access_token=IGQWRPOE5odDBSeXk4MC1Fa3RLVXpIcFNtd1JrVkI5X1ZAmekFEbWZALaHpyZAFRCbFE5b2RaMDlvQWlzb1c4WVZAIQjFpeFZAhQk42Q0h4R2FRanI2WDl5TXBhcFlPZAnZAKXzNfT2RRUGIwbjhjM3BIbF9TQnpHMVNaYncZD"
+      `https://graph.instagram.com/7150081325048019?fields=media_count,username&access_token=${process.env.lethal_astra_api_key}`
     );
 
     const OneStayConsistent: AxiosResponse<any> = await axios.get(
-      "https://graph.instagram.com/24932505826394447?fields=media_count,username&access_token=IGQWRQMGpsbmlpS2RfaDVGdHl1NmtFRUVkREZA1RkVyUkNhLS1zRGNCcW55RFMtVnJacllicW80N0hXMFV6T1I0ejFKY0lkLWNVR3ZAuYnFqandaTGFGRnhfMkwyYm1Ebi1lSm9uS3lrQXhwQUxKQlBSQ0tCYVl2NWMZD"
+      `https://graph.instagram.com/24932505826394447?fields=media_count,username&access_token=${process.env.OnestayConsistent_apiKey}`
     );
 
     const lethal_astra_data = lethal_astra.data;
@@ -206,7 +206,7 @@ export async function getInstaData(): Promise<any> {
       return [lethal_astra_data, OneStayConsistent_data];
     }
   } catch (error: any) {
-    console.error("Error fetching Dev.to data:", error.response?.data || error.message || error);
+    console.error("Error fetching Instagram data:", error.response?.data || error.message || error);
   }
 }
 // ----------------------------------------------------------Instagram-------------------------------------------------
