@@ -1,13 +1,12 @@
 ---
 title: Test Driven Development and Its frameworks comparison
 publishedDate: "2022-12-20"
+lastUpdatedDate: "2023-12-09"
 tags: ["testing", "development", "comparision"]
 status: "published"
 type: Post
-# summary: In this article we'll see about what is testing in SOftware Development, why it is important in SOftware Development Journey.
+description: In this article we'll see about what is testing in SOftware Development, why it is important in SOftware Development Journey.
 ---
-
-# Test Driven Development and Its frameworks comparison
 
 In Software development, the software is developed using multiple methods of Software Development, naming some of them :
 

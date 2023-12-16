@@ -1,13 +1,12 @@
 ---
 title: Defining a Function in Python
 publishedDate: "2022-08-07"
+lastUpdatedDate: "2023-12-09"
 tags: ["python", "tutorial"]
 status: "published"
 type: Post
-# summary: This article basically I wrote but this didn't worked out and the community didn't gave a good response.
+description: This article basically I wrote but this didn't worked out and the community didn't gave a good response.
 ---
-
-# Defining a Function in Python
 
 A function in Python is a set of related statements that are designed to perform a specific task. To develop a function our main objective is to call a function instead of writing the same code again and again for the same type of input this helps the code to be more concise and cleaner.
 

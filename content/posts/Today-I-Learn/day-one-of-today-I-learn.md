@@ -1,10 +1,11 @@
 ---
 title: Things I learned ( First Article )
 publishedDate: "2022-08-07"
+lastUpdatedDate: "2023-12-09"
 tags: ["Linux", "tutorial", "tips", "thoughts"]
 status: "draft"
 type: Post
-# summary: In this article, I'll be sharing all the things which I learned these days within 8th Sept to 15th Sept.
+description: In this article, I'll be sharing all the things which I learned these days within 8th Sept to 15th Sept.
 ---
 
 # Things I learned ( First Article )

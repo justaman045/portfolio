@@ -1,6 +1,7 @@
 ---
 title: JavaScript Introduction
 publishedDate: "2022-08-07"
+lastUpdatedDate: "2023-12-09"
 tags: ["programming", "tutorial", "framework intro"]
 status: "published"
 type: Post

@@ -1,13 +1,12 @@
 ---
 title: What is the best searching algorithm? Explained
 publishedDate: "2022-09-28"
+lastUpdatedDate: "2023-12-09"
 tags: ["Searching", "algorithm", "developer", "tips", "backend", "interview"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about the best searching algorithm used for searching an array.
+description: In this article, I'll tell you about the best searching algorithm used for searching an array.
 ---
-
-# What is the best search algorithm? Explained
 
 You might have tried to search for something on your electronic devices be it searching for any video on youtube or searching for any query on Google. Do you ever wondered how can Platforms can search billions of data within a matter of seconds, What Searching algorithms do they use to search this tremendously fast on their platform??
 

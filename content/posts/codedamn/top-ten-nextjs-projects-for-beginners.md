@@ -1,13 +1,12 @@
 ---
 title: Top 10 Next.js projects for Beginner
 publishedDate: "2022-09-09"
+lastUpdatedDate: "2023-12-09"
 tags: ["next.js", "project", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about the top 10 next.js projects to build as a next developer.
+description: In this article, I'll tell you about the top 10 next.js projects to build as a next developer.
 ---
-
-# Top 10 Next.js projects for Beginner
 
 Next.js is a popular Web Development framework for Frontend developed by Vercel, It is a JavaScript Library used to develop multi-page web apps using JavaScript on the Server Side or pre-render the contents on the server itself in just plain HTML which helps the user to load WebPage faster than even React.js itself. Its advantage over React.js is enough to use it but it also provides SEO in-built no need to install any other plugins, unlike React.js.
 

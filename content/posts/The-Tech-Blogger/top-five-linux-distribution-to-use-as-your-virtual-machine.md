@@ -1,13 +1,12 @@
 ---
 title: Top 5 Linux Distributions to use as Your Virtual Machine
 publishedDate: "2022-09-26"
+lastUpdatedDate: "2023-12-09"
 tags: ["virtual machine", "Linux", "programmer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about what are those 5 top Linux distributions that you could use as a Virtual Machine
+description: In this article, I'll tell you about what are those 5 top Linux distributions that you could use as a Virtual Machine
 ---
-
-# Top 5 Linux Distributions to use as Your Virtual Machine
 
 Do you ever wish to install Linux and become a Pro Developer and flaunt your skills among your friends, but at the same time, you cannot install Linux as your primary OS due to some already familiar software like Adobe Premier Pro, Adobe After Effects, and Office?
 

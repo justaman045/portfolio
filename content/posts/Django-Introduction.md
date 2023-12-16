@@ -1,13 +1,12 @@
 ---
 title: Django Introduction and Installation
 publishedDate: "2022-08-07"
+lastUpdatedDate: "2023-12-09"
 tags: ["programming", "framework intro", "backend"]
 status: "published"
 type: Post
-# summary: In this article we'll look into what is Django and what are it's advantages or disadvantages and why should we bother trying it out.
+description: In this article we'll look into what is Django and what are it's advantages or disadvantages and why should we bother trying it out.
 ---
-
-## Django Introduction and Installation
 
 ## What is Django?
 

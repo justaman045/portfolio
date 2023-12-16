@@ -1,13 +1,12 @@
 ---
 title: Difference between Java and C#
 publishedDate: "2023-01-03"
+lastUpdatedDate: "2023-12-09"
 tags: ["programming", "tutorial", "difference", "java", "CSharp"]
 status: "published"
 type: Post
 description: In this article, we'll discuss what are the differences between Java and C#
 ---
-
-# Difference between Java and C#
 
 Both C# and Java have a stronghold in Industry level requirements and they both hold a strong position in the world of Development, either be it Development or Testing, C# is also known as the Language for Game Development on the other hand Java was the Language for Android Development for a long time until Kotlin was Introduced which is also built on top of Java.
 

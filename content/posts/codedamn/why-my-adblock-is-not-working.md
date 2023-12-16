@@ -1,13 +1,12 @@
 ---
 title: Why my Adblock is not Working on Twitch and YouTube
 publishedDate: "2022-09-20"
+lastUpdatedDate: "2023-12-09"
 tags: ["AdBlock", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you why your AdBlock is not working on Twitch or YouTube
+description: In this article, I'll tell you why your AdBlock is not working on Twitch or YouTube
 ---
-
-# Why my Adblock is not Working
 
 Many users use Adblock to prevent Ads from spamming websites with unnecessary information and history-revealing ads. Adblocks is just a JavaScript file that automatically detects the Ads and stops them from being rendered onto the Document/Website.
 

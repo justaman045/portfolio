@@ -1,13 +1,12 @@
 ---
 title: Simple C programs with outputs to learn C
 publishedDate: "2022-10-25"
+lastUpdatedDate: "2023-12-09"
 tags: ["C", "Programming", "learning", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about Simple C programs with outputs to learn C
+description: In this article, I'll tell you about Simple C programs with outputs to learn C
 ---
-
-# Simple C programs with outputs to learn C
 
 Ever thought of Learning a Programming Language but instead got stuck with two major Questions:
 

@@ -1,13 +1,12 @@
 ---
 title: React vs Django Which is better for Web Development?
 publishedDate: "2023-12-02"
+lastUpdatedDate: "2023-12-09"
 tags: ["react", "firebase", "guide"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you How to set up a Next project with Tailwind CSS
+description: In this article, I'll tell you How to set up a Next project with Tailwind CSS
 ---
-
-# React vs Django: Which is better for Web Development?
 
 React vs Django is probably the most confusing decision by a Developer in the initial days of the Development Journey. As React focuses on Frontend and Mobile App Development on the other hand Django focuses on Backend and Frontend Development. Both of them have their advantages over others but those advantages are in different fields which are useful as a Developer.
 

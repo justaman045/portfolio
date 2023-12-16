@@ -14,8 +14,6 @@ type: Post
 description: In this article we'll get to know about the skills which almost every developer should have.
 ---
 
-# 3 Skills Every Programmer Should Have
-
 In this article, I am going to tell you about **3 Skills** that I think every Programmer should have Assuming that a Programmer wants to create a Company. The 3 Skills are :
 
 - App Development

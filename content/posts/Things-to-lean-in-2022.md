@@ -1,13 +1,12 @@
 ---
 title: Things I'll be focusing on in 2022
 publishedDate: "2021-01-01"
+lastUpdatedDate: "2023-12-09"
 tags: ["framework intro", "dev update", "tutorial", "tips"]
 status: "published"
 type: Post
-# summary: In this article we'll read about what are the things to keep a focus onto learn in 2022
+description: In this article we'll read about what are the things to keep a focus onto learn in 2022
 ---
-
-# Things I'll be focusing on in 2022
 
 I've been following the To-Do kind of way to easily track down my steps to achieve the goal. So why shouldn't we just try to implement that procedure to learn something new?
 

@@ -1,13 +1,12 @@
 ---
 title: React Firebase Complete Tutorial
 publishedDate: "2022-12-02"
+lastUpdatedDate: "2023-12-09"
 tags: ["react", "firebase", "guide"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you How to set up a Next project with Tailwind CSS
+description: In this article, I'll tell you How to set up a Next project with Tailwind CSS
 ---
-
-# React Firebase Complete Tutorial
 
 Firebase is a Ready to use Backend Service made available by Team Google, which ensures we write our Application Code and they'll manage every backend utility from their side, while on the other hand React is a Frontend Development framework that enables a developer to build and develop a Good User Interface with the minimal code by using the Blog architecture and Virtual DOM to levitate the Load.
 

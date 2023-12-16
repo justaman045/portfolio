@@ -1,13 +1,12 @@
 ---
 title: 5 Habits of a Good Programmer
 publishedDate: "2022-08-07"
+lastUpdatedDate: "2023-12-09"
 tags: ["programming", "roadmap", "devjournal", "coding"]
 status: "published"
 type: Post
-# summary: In this article, we'll discuss 5 habits of Pro Software Developers of how they manage their time and what do they think about before writing the code.
+description: In this article, we'll discuss 5 habits of Pro Software Developers of how they manage their time and what do they think about before writing the code.
 ---
-
-# 5 Habits of a Good Programmer
 
 In the Tech World, every developer competes with each other, and being the best in the organization is always a preferred choice for everyone.
 

@@ -1,13 +1,12 @@
 ---
 title: Top 10 Python Projects for beginners
 publishedDate: "2022-09-09"
+lastUpdatedDate: "2023-12-09"
 tags: ["python", "project", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about the top 10 python projects to build as a python developer.
+description: In this article, I'll tell you about the top 10 python projects to build as a python developer.
 ---
-
-# Top 10 Python Projects for beginners
 
 Python is one of the most popular programming languages according to [StackOverflow Survey](https://insights.stackoverflow.com/survey/2021#technology-most-popular-technologies) and also [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05z1_), and If you're a Python Developer it'll be best to get some of the best python real-time projects on your resume as a Beginner to get your dream job.
 

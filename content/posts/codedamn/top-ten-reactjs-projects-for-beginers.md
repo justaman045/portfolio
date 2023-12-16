@@ -1,13 +1,12 @@
 ---
 title: Top 10 React.js projects for Beginner
 publishedDate: "2022-09-09"
+lastUpdatedDate: "2023-12-09"
 tags: ["reactjs", "project", "developer", "tips"]
 status: "published"
 type: Post
-# summary: In this article, I'll tell you about the top 10 reactjs projects to build as a react developer.
+description: In this article, I'll tell you about the top 10 reactjs projects to build as a react developer.
 ---
-
-# Top 10 React.js projects for Beginner
 
 React.js is the most popular Web Development framework for Frontend, It is a JavaScript Library used to develop single-page web apps using JavaScript which executes on the client-side Javascript engine also known as a Browser. But What makes React so much popular that most companies are hiring React Developers?? It's the reusability part, React helps us to easily break down multiple parts of the web app into different components and reuse them as well, which is the best and unique feature of react.js.
 

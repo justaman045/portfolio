@@ -1,13 +1,12 @@
 ---
 title: Intro To Loops
 publishedDate: "2022-08-07"
+lastUpdatedDate: "2023-12-09"
 tags: ["programming", "tutorial"]
 status: "published"
 type: Post
-# summary: In this article we'll see about Introduction to Loops in prgraming language
+description: In this article we'll see about Introduction to Loops in prgraming language
 ---
-
-# Intro To Loops
 
 In general Computer, Programs are executed sequentially. It will execute the first line then the second line than the third line and so on.
 

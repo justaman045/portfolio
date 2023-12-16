@@ -1,13 +1,12 @@
 ---
 title: Starting a Dev Job as Operation Executive
 publishedDate: "2021-10-25"
+lastUpdatedDate: "2023-12-09"
 tags: ["job", "journal", "dev update"]
 status: "published"
 type: Post
-# summary: In this article I wrote about how I spend my first Day of my Work from Home Job and how does it felt to me ( it's just my experience and I'll be posting like this more in future when i'll be joing the Work from Office mode ).
+description: In this article I wrote about how I spend my first Day of my Work from Home Job and how does it felt to me ( it's just my experience and I'll be posting like this more in future when i'll be joing the Work from Office mode ).
 ---
-
-# Starting a Dev Job as Operation Executive
 
 ## Pre Joining time
 
