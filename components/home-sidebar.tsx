@@ -24,7 +24,7 @@ export function Sidebar({ className, ...props }: CardProps) {
             <p className="ml-2 mr-auto text-sm font-medium leading-none">{defaultAuthor.location.city}</p>
             <Image
               src={defaultAuthor.location.media}
-              alt="Los Angeles"
+              alt={defaultAuthor.location.city}
               width={56}
               height={56}
               className="h-16 w-16 rounded-md object-cover"
@@ -33,9 +33,11 @@ export function Sidebar({ className, ...props }: CardProps) {
         </CardContent>
         <Separator />
         <CardFooter>
-          <Button variant="ghost" className="w-full" disabled>
-            Digital Nomad diaries <ArrowRight className="mr-2 h-4 w-4" />
-          </Button>
+          <Link href={`/logs/${defaultAuthor.handle.slice(1)}`}>
+            <Button variant="ghost" className="w-full" disabled>
+              {defaultAuthor.name}&apos;s diaries <ArrowRight className="mr-2 h-4 w-4" />
+            </Button>
+          </Link>
         </CardFooter>
       </Card>
       <Card className={cn(className)} {...props}>

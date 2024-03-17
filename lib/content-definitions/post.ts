@@ -42,6 +42,9 @@ export const Post = defineDocumentType(() => ({
     lastUpdatedDate: {
       type: "date",
     },
+    username: {
+      type: "string",
+    },
     tags: {
       type: "list",
       of: { type: "string", options: tagOptions },

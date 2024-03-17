@@ -17,7 +17,7 @@ export const defaultAuthor: AuthorType = {
   company: "Infosys Ltd.",
   availableForWork: true,
   location: {
-    city: "Noida",
+    city: "Indore",
     media: "/noida.avif",
   },
 };
@@ -33,7 +33,7 @@ const siteMetadata: SiteMetaData = {
   username: "justaman045",
   description: defaultDescription,
   email: defaultAuthor.email,
-  siteRepo: "https://gitlab.com/coderaman07/digital-garden",
+  siteRepo: "https://github.com/justaman045/Zenith",
   newsletterProvider: "convertkit",
   newsletterUrl: "https://athenabyaman.ck.page/newsletter",
   analyticsProvider: "umami",

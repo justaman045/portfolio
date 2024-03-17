@@ -15,12 +15,9 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function SocialPage() {
   const date = new Date();
 
-  let day = date.getDate().toString();
-  let month = date.getMonth() + 1;
+  let day = date.getDate().toString().padStart(2, "0"); // Ensure two digits for day
+  let month = (date.getMonth() + 1).toString().padStart(2, "0"); // Ensure two digits for month
   let year = date.getFullYear();
-  if (Number(day) < 10) {
-    day = `0${day}`;
-  }
 
   let currentDate = `${year}-${month}-${day}`;
 
@@ -32,7 +29,7 @@ export default async function SocialPage() {
           {/* <AlertTriangle className="inline h-5 w-5 text-amber-500" /> Note: This page is heavily under construction!{" "}
           <AlertTriangle className="inline h-5 w-5 text-amber-500" /> */}
         </p>
-        <time className="text-sm text-slate-500">Last updated: {format(parseISO(currentDate), "LLLL d, yyyy")}</time>
+        <time className="text-sm text-slate-500">Last updated: {format(new Date(currentDate), "LLLL d, yyyy")}</time>
         <hr className="my-4" />
         <div className="grid items-stretch gap-4 md:grid-cols-2">
           {projects.map((item) => (

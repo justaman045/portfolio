@@ -4,11 +4,9 @@ import { allPages, allPosts } from "contentlayer/generated";
 import { ArrowRight } from "lucide-react";
 
 import siteMetadata, { defaultAuthor } from "@/lib/metadata";
+import { siteData } from "@/lib/siteData";
 import { sortByDate } from "@/lib/utils";
-import { HeroImage } from "@/components/hero-image";
-import { HeroMinimal } from "@/components/hero-minimal";
 import { HeroSimple } from "@/components/hero-simple";
-import { HeroVideo } from "@/components/hero-video";
 import { Sidebar } from "@/components/home-sidebar";
 import { Mdx } from "@/components/mdx";
 import NewsletterSubscribe from "@/components/newsletter-subscribe";
@@ -33,10 +31,7 @@ export default async function Home() {
 
   return (
     <div className="pb-10">
-      <HeroSimple
-        title="Building hackin’ cool digital products around the world 🌴."
-        subtitle="I'm Amy. Frontend engineer writing code and blog on the internet."
-      />
+      <HeroSimple title={siteData.HomePageText} subtitle={siteData.SubtitleText} />
       <div className="container mt-12 max-w-6xl">
         <div className="grid grid-cols-1 place-items-start justify-between gap-12 lg:grid-cols-3">
           <div className="col-span-1 w-full lg:col-span-2">

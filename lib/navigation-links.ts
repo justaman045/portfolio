@@ -10,7 +10,7 @@ const content: ContentNavItem[] = [
   },
   {
     title: "Personal Logs",
-    href: "/personal-logs",
+    href: "/logs",
     description: "All of my personal logs that I want to share with my audience",
   },
   {

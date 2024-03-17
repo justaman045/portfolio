@@ -19,6 +19,6 @@ export const socialProfiles: SocialProfile[] = [
   },
   {
     name: "youtube",
-    link: "https://youtube.com/@editingamer",
+    link: "https://youtube.com/@editingamer4",
   },
 ];
