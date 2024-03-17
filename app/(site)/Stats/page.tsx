@@ -16,7 +16,7 @@ export async function generateMetadata(): Promise<Metadata> {
 export default async function Stats() {
   const blogginPlatforms = await blogginDetails();
   const codingProfile = await codingData();
-  const InstagramProfile: Array<Object> = await getInstaData();
+  // const InstagramProfile: Array<Object> = await getInstaData();
 
   return (
     <>
@@ -58,7 +58,8 @@ export default async function Stats() {
               All the Writing Platforms that I write to
             </p>
             <div className="mt-8 grid grid-cols-2 gap-6 md:grid-cols-4" id="frameworks-integration">
-              {blogginPlatforms.map((profile) => {
+              {blogginPlatforms.map((profile: any) => {
+                console.log(profile);
                 return (
                   <a
                     key={`${profile.platformName}key`}
@@ -83,7 +84,7 @@ export default async function Stats() {
                 );
               })}
             </div>
-            <div className="group relative -ml-4 flex scroll-mt-40 items-center pl-4 pt-8">
+            {/* <div className="group relative -ml-4 flex scroll-mt-40 items-center pl-4 pt-8">
               <a
                 href="#"
                 className="border-blue-gray-50 bg-blue-gray-50/50 absolute z-50 -ml-10 mb-2.5 rounded-md border p-1 opacity-0 hover:opacity-100 group-hover:opacity-100"
@@ -126,7 +127,7 @@ export default async function Stats() {
                   </a>
                 );
               })}
-            </div>
+            </div> */}
             <div className="group relative -ml-4 flex scroll-mt-40 items-center pl-4 pt-8">
               <a
                 href="#"
