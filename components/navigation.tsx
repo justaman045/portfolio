@@ -13,6 +13,7 @@ import { MobileNav } from "@/components/mobile-nav";
 import { ModeToggle } from "@/components/mode-toggle";
 import { Navbar } from "@/components/navbar";
 import { WorkAvailabilityBadge } from "@/components/work-availability-badge";
+import { siteData } from "@/lib/siteData";
 
 const SCROLL_OFFSET = 200;
 
@@ -63,7 +64,7 @@ export function Navigation() {
       >
         {defaultAuthor.availableForWork && (
           <div className="mx-auto mb-2 text-center sm:hidden">
-            <Link href="/now" aria-label="Go to Now page">
+            <Link href={siteData.resumeUrl} aria-label="Get my Resume">
               <WorkAvailabilityBadge />
             </Link>
           </div>
@@ -83,7 +84,7 @@ export function Navigation() {
                 </Link>
               </div>
               {defaultAuthor.availableForWork && (
-                <Link href="/now" aria-label="Go to Now page" className="ml-2 hidden sm:block">
+                <Link href={siteData.resumeUrl} aria-label="Go to Now page" className="ml-2 hidden sm:block">
                   <WorkAvailabilityBadge />
                 </Link>
               )}
