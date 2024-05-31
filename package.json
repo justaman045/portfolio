@@ -1,11 +1,11 @@
 {
-  "name": "digital-garden",
-  "version": "0.7.2",
+  "name": "zenith",
+  "version": "1.0.0",
   "private": true,
-  "repository": "https://github.com/thedevdavid/digital-garden",
+  "repository": "https://github.com/justaman045/zenith",
   "author": {
-    "name": "David Levai",
-    "url": "https://twitter.com/thedevdavid"
+    "name": "Aman Ojha",
+    "url": "https://twitter.com/justaman045"
   },
   "scripts": {
     "dev": "next dev",
