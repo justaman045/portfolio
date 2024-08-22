@@ -7,5 +7,5 @@ type siteData = {
 export const siteData: siteData = {
   HomePageText: "Developing cool Products and Content for the world.",
   SubtitleText: "I'm Amy. Frontend engineer writing code and blog on the internet.",
-  resumeUrl: "https://drive.google.com/file/d/1dzkMwifLF4rfKz3FRQVtnahPEZdJy1mv/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/1ts2YTNAuZh7qPunbQElK3fM4SwpfCmhb/view?usp=sharing",
 };
