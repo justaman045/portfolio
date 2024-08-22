@@ -12,8 +12,8 @@ export const defaultAuthor: AuthorType = {
   handle: "@justaman045",
   socialProfiles,
   email: "editingamer@gmail.com",
-  website: "https://athenabyaman.vercel.app",
-  jobTitle: "Sr. Systems Associate",
+  website: "https://justaman045.vercel.app",
+  jobTitle: "Systems Engineer",
   company: "Infosys Ltd.",
   availableForWork: true,
   location: {
